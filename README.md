@@ -13,6 +13,12 @@ That's my proposal of a mobile app for GitHub.
 
 ## Screenshots
 
+<center>
+<span>
+<img src="assets/login.jpeg" width="250">
+<img src="assets/home.jpeg" width="250">
+</span>
+</center>
 
 ## How to use
 
